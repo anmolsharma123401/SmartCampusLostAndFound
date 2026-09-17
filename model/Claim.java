@@ -1,3 +1,4 @@
+package model;
 public class Claim {
     private int id;
     private int itemId;
